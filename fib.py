@@ -3,5 +3,7 @@ def fib(n):
 	    return n
     else:
 	    return fib(n-1)+fib(n-2)
-for i in range(45):
-    print fib(i)
+p=int(input("enter the number")
+for i in range(p):
+print fib(i)
+
